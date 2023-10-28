@@ -7,9 +7,3 @@ How to use: Run the main block of code to get a new poem each time!
 
 Thanks, and hope you enjoy xoxox
 
-**
-
-"unable are the loved to die, 
-For love is immortality."
-—— Emily Dickinson
-
